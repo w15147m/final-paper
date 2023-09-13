@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- colors.xml -->
+    <color name="newTextColor">#9C27B0</color>
+
+    <!-- styles.xml -->
+    <style name="NewTextStyle">
+        <item name="android:textStyle">italic</item>
+    </style>
+    <color name="newTextColor1">#FF0000</color>
+
+    <!-- styles.xml -->
+    <style name="NewTextStyle1">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>
+
+<!--
+    Create a new Android project or open an existing one in Android Studio.
+
+    Design the XML Layout:
+
+    Open the activity_main.xml layout file (or create one if it doesn't exist) and design
+    the user interface with TextView and three buttons for changing text color, font size,
+    and style. Below is a simple example:-->
